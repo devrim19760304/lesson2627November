@@ -5,7 +5,7 @@ the screen well.
 
 
 * there are one other question inside math1.js please try to solve it.
-  ``` bash 
+``` bash 
 // Jane is student and gets 6500 NOK from every month from Lanekassen
 // jane find a work that pay  500 nok per hour and she work 8 hours 2 days 
 
